@@ -1,0 +1,5 @@
+payout_group,quotes,providers,fee_pct,fx_margin_pct,total_cost_pct,median_cost_pct,cheapest_quote_pct,p90_cost_pct,most_expensive_pct,fee_share_of_cost
+Mobile wallet,37.0,8.0,1.1061,1.5265,2.6338,2.0,0.46,5.206,7.75,0.42
+Bank account,286.0,33.0,4.0908,0.9634,5.056,3.5,-9.85,10.03,25.0,0.8091
+Cash,684.0,41.0,3.6619,1.5056,5.1702,4.87,-2.65,8.192,17.0,0.7083
+Other,3.0,1.0,5.8283,0.0,5.8333,5.0,4.5,7.4,8.0,0.9991

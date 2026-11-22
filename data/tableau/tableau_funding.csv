@@ -1,0 +1,4 @@
+funding_group,quotes,providers,fee_pct,fx_margin_pct,total_cost_pct,median_cost_pct,cheapest_quote_pct,p90_cost_pct,most_expensive_pct,fee_share_of_cost
+Card,558.0,22.0,3.425,1.2394,4.6674,4.45,-9.85,7.8,17.0,0.7338
+Bank account,267.0,27.0,3.8469,1.3661,5.2154,3.9,-0.49,9.604,25.0,0.7376
+Cash,185.0,29.0,4.2963,1.6514,5.9484,5.45,1.5,10.382,14.3,0.7223

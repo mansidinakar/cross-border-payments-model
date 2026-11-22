@@ -1,0 +1,118 @@
+firm,destination_code,payout_group,cash_before,cash_after,non_cash,saving_before_tax_pp,saving_after_tax_pp
+Delgado Travel,MEX,Bank account,4.99,5.99,4.99,0.0,1.0
+Delgado Travel,MEX,Cash,4.99,5.99,4.99,0.0,1.0
+Ficohsa Express,HND,Cash,5.45,6.45,5.4,0.05,1.05
+Intermex,GTM,Bank account,4.49,5.49,3.85,0.64,1.64
+Intermex,GTM,Cash,4.49,5.49,4.0,0.49,1.49
+Intermex,HND,Bank account,2.65,3.65,2.13,0.52,1.52
+Intermex,MEX,Bank account,4.6,5.6,3.89,0.71,1.71
+Intermex,SLV,Bank account,2.0,3.0,1.75,0.25,1.25
+M.Lhuillier Financial Services,PHL,Bank account,3.0,4.0,3.0,0.0,1.0
+M.Lhuillier Financial Services,PHL,Cash,3.0,4.0,3.0,0.0,1.0
+MoneyGram,CPV,Cash,5.01,6.01,6.4,-1.39,-0.39
+MoneyGram,ETH,Cash,2.4,3.4,3.0,-0.6,0.4
+MoneyGram,GHA,Cash,4.42,5.42,4.92,-0.5,0.5
+MoneyGram,GHA,Mobile wallet,2.97,3.97,2.2533,0.7167,1.7167
+MoneyGram,HTI,Bank account,5.0,6.0,1.0,4.0,5.0
+MoneyGram,IND,Bank account,7.37,8.37,2.4233,4.9467,5.9467
+MoneyGram,KEN,Cash,4.98,5.98,6.11,-1.13,-0.13
+MoneyGram,LBR,Cash,6.0,7.0,5.5,0.5,1.5
+MoneyGram,NGA,Bank account,3.42,4.42,1.595,1.825,2.825
+MoneyGram,NGA,Cash,3.41,4.41,0.01,3.4,4.4
+MoneyGram,NIC,Cash,3.6,4.6,4.5,-0.9,0.1
+MoneyGram,SLV,Bank account,5.0,6.0,1.0,4.0,5.0
+MoneyGram,ZAF,Cash,4.8,5.8,5.95,-1.15,-0.15
+Ria,COL,Cash,4.77,5.77,5.77,-1.0,0.0
+Ria,CRI,Cash,7.82,8.82,6.93,0.89,1.89
+Ria,ECU,Cash,3.0,4.0,2.35,0.65,1.65
+Ria,ETH,Cash,5.88,6.88,2.33,3.55,4.55
+Ria,GHA,Cash,5.85,6.85,5.5167,0.3333,1.3333
+Ria,GUY,Bank account,9.78,10.78,8.1967,1.5833,2.5833
+Ria,GUY,Cash,6.4,7.4,4.8167,1.5833,2.5833
+Ria,HND,Cash,4.0,5.0,4.81,-0.81,0.19
+Ria,IDN,Cash,6.47,7.47,5.1367,1.3333,2.3333
+Ria,IND,Cash,4.43,5.43,3.7133,0.7167,1.7167
+Ria,JAM,Cash,6.43,7.43,5.2467,1.1833,2.1833
+Ria,JOR,Cash,5.7,6.7,6.2,-0.5,0.5
+Ria,KEN,Cash,6.58,7.58,5.9133,0.6667,1.6667
+Ria,LBR,Cash,3.5,4.5,5.3333,-1.8333,-0.8333
+Ria,MEX,Cash,4.31,5.31,3.7933,0.5167,1.5167
+Ria,NGA,Bank account,5.5,6.5,3.97,1.53,2.53
+Ria,NGA,Cash,5.26,6.26,3.9267,1.3333,2.3333
+Ria,NPL,Cash,5.96,6.96,5.21,0.75,1.75
+Ria,PAN,Cash,4.0,5.0,4.15,-0.15,0.85
+Ria,PHL,Cash,5.49,6.49,4.4067,1.0833,2.0833
+Ria,SLV,Bank account,3.0,4.0,2.45,0.55,1.55
+Ria,SLV,Cash,3.0,4.0,3.9833,-0.9833,0.0167
+Ria,UKR,Cash,3.21,4.21,3.66,-0.45,0.55
+Ria,VNM,Cash,5.55,6.55,6.05,-0.5,0.5
+Viamericas,HND,Bank account,5.54,6.54,3.14,2.4,3.4
+Viamericas,HND,Cash,4.0,5.0,3.1,0.9,1.9
+Viamericas,MEX,Cash,3.33,4.33,4.005,-0.675,0.325
+Viamericas,SLV,Cash,3.0,4.0,2.6833,0.3167,1.3167
+Vigo,GTM,Cash,3.18,4.18,3.18,0.0,1.0
+Walmart2World,BRA,Cash,12.74,13.74,10.4767,2.2633,3.2633
+Walmart2World,CHN,Cash,7.0,8.0,3.0,4.0,5.0
+Walmart2World,COL,Cash,12.56,13.56,-0.1167,12.6767,13.6767
+Walmart2World,CPV,Cash,9.98,10.98,6.03,3.95,4.95
+Walmart2World,DOM,Cash,12.58,13.58,2.6367,9.9433,10.9433
+Walmart2World,ECU,Cash,7.0,8.0,3.0,4.0,5.0
+Walmart2World,ETH,Bank account,6.76,7.76,1.78,4.98,5.98
+Walmart2World,ETH,Mobile wallet,5.26,6.26,1.28,3.98,4.98
+Walmart2World,GHA,Cash,11.87,12.87,4.9167,6.9533,7.9533
+Walmart2World,GTM,Cash,11.1,12.1,0.88,10.22,11.22
+Walmart2World,GUY,Cash,12.68,13.68,6.65,6.03,7.03
+Walmart2World,HND,Cash,7.36,8.36,4.68,2.68,3.68
+Walmart2World,HTI,Bank account,5.0,6.0,2.0,3.0,4.0
+Walmart2World,IDN,Cash,8.33,9.33,2.5933,5.7367,6.7367
+Walmart2World,IND,Cash,10.68,11.68,2.41,8.27,9.27
+Walmart2World,JAM,Cash,12.68,13.68,2.0167,10.6633,11.6633
+Walmart2World,JOR,Cash,7.5,8.5,4.0,3.5,4.5
+Walmart2World,KEN,Cash,11.26,12.26,3.9767,7.2833,8.2833
+Walmart2World,LBN,Cash,7.5,8.5,4.5,3.0,4.0
+Walmart2World,LBR,Cash,6.0,7.0,7.0,-1.0,0.0
+Walmart2World,MEX,Cash,10.13,11.13,1.32,8.81,9.81
+Walmart2World,NGA,Cash,9.87,10.87,1.63,8.24,9.24
+Walmart2World,NIC,Cash,7.0,8.0,4.3333,2.6667,3.6667
+Walmart2World,PAK,Cash,13.67,14.67,3.8033,9.8667,10.8667
+Walmart2World,PAN,Cash,7.0,8.0,4.0,3.0,4.0
+Walmart2World,PER,Cash,7.0,8.0,4.0,3.0,4.0
+Walmart2World,PHL,Cash,8.14,9.14,4.3333,3.8067,4.8067
+Walmart2World,SLV,Cash,7.0,8.0,3.4167,3.5833,4.5833
+Walmart2World,THA,Cash,12.16,13.16,4.3567,7.8033,8.8033
+Walmart2World,UKR,Cash,11.52,12.52,3.38,8.14,9.14
+Walmart2World,VNM,Cash,6.0,7.0,3.0,3.0,4.0
+Walmart2World,YEM,Cash,7.5,8.5,4.0,3.5,4.5
+Western Union,AFG,Cash,9.82,10.82,7.8,2.02,3.02
+Western Union,BGD,Cash,10.55,11.55,7.555,2.995,3.995
+Western Union,BRA,Cash,9.28,10.28,5.9533,3.3267,4.3267
+Western Union,CHN,Cash,5.5,6.5,3.56,1.94,2.94
+Western Union,COL,Cash,6.64,7.64,5.19,1.45,2.45
+Western Union,CPV,Cash,12.49,13.49,4.5,7.99,8.99
+Western Union,CRI,Cash,10.99,11.99,7.32,3.67,4.67
+Western Union,DOM,Cash,5.95,6.95,5.31,0.64,1.64
+Western Union,ECU,Cash,4.0,5.0,3.0,1.0,2.0
+Western Union,EGY,Cash,7.8,8.8,3.9,3.9,4.9
+Western Union,ERI,Cash,4.5,5.5,6.0,-1.5,-0.5
+Western Union,GHA,Cash,9.21,10.21,6.6233,2.5867,3.5867
+Western Union,GUY,Cash,11.01,12.01,7.0167,3.9933,4.9933
+Western Union,HND,Cash,5.01,6.01,3.01,2.0,3.0
+Western Union,HTI,Cash,4.22,5.22,5.22,-1.0,0.0
+Western Union,IDN,Cash,14.3,15.3,5.68,8.62,9.62
+Western Union,IND,Cash,5.35,6.35,3.83,1.52,2.52
+Western Union,JAM,Cash,7.39,8.39,6.36,1.03,2.03
+Western Union,JOR,Cash,7.34,8.34,3.98,3.36,4.36
+Western Union,KEN,Cash,9.7,10.7,6.27,3.43,4.43
+Western Union,LBN,Cash,4.0,5.0,6.5,-2.5,-1.5
+Western Union,MEX,Cash,4.9,5.9,5.9,-1.0,0.0
+Western Union,NGA,Cash,3.83,4.83,2.6633,1.1667,2.1667
+Western Union,NIC,Cash,4.0,5.0,2.5,1.5,2.5
+Western Union,PAK,Cash,8.44,9.44,3.2133,5.2267,6.2267
+Western Union,PAN,Cash,4.0,5.0,3.0,1.0,2.0
+Western Union,PER,Cash,4.0,5.0,3.0,1.0,2.0
+Western Union,PHL,Cash,5.06,6.06,4.46,0.6,1.6
+Western Union,SLV,Cash,4.0,5.0,3.6667,0.3333,1.3333
+Western Union,THA,Cash,8.92,9.92,2.76,6.16,7.16
+Western Union,VNM,Cash,8.15,9.15,5.31,2.84,3.84
+Western Union,YEM,Cash,4.0,5.0,2.0,2.0,3.0
+Western Union,ZAF,Cash,5.98,6.98,7.78,-1.8,-0.8

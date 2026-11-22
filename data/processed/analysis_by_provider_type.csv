@@ -1,0 +1,3 @@
+provider_type,quotes,providers,fee_pct,fx_margin_pct,total_cost_pct,median_cost_pct,cheapest_quote_pct,p90_cost_pct,most_expensive_pct,fee_share_of_cost
+Money Transfer Operator,955.0,44.0,3.2952,1.3976,4.6953,4.31,-9.85,7.85,17.0,0.7018
+Bank,55.0,9.0,10.6591,0.4935,11.1525,5.5,1.18,22.5,25.0,0.9558

@@ -1,0 +1,4 @@
+version,quotes,total_cost_pct,fee_pct,fx_margin_pct
+All quotes (default),1010,5.0469,3.6962,1.3483
+Excluding negative-cost quotes,996,5.1474,3.7327,1.4123
+Only quotes with disclosed FX rate,1010,5.0469,3.6962,1.3483

@@ -1,0 +1,38 @@
+destination_code,destination_name,destination_region,quotes,providers,fee_pct,fx_margin_pct,total_cost_pct,median_cost_pct,cheapest_quote_pct,p90_cost_pct,most_expensive_pct,fee_share_of_cost,spread_median_vs_cheapest_pp,above_5pct_cap,above_3pct_sdg,ranked,cash_share,cost_with_tax_pct,increase_pp,newly_above_cap,goal_pct,cap_pct,status
+LBN,Lebanon,"Middle East, North Africa, Afghanistan & Pakistan",16.0,7.0,11.2791,0.0,11.2812,6.5,2.5,22.5,25.0,0.9998,4.0,True,True,True,0.125,11.4062,0.125,False,3.0,5.0,Above 5% cap
+CPV,Cabo Verde,Sub-Saharan Africa,14.0,4.0,6.3704,2.4314,8.805,5.5,4.22,19.497,22.5,0.7235,1.28,True,True,True,0.2143,9.0193,0.2143,False,3.0,5.0,Above 5% cap
+GUY,Guyana,Latin America & Caribbean,21.0,5.0,3.7074,4.3919,8.1014,7.35,3.4,12.68,13.99,0.4576,3.95,True,True,True,0.1905,8.2919,0.1905,False,3.0,5.0,Above 5% cap
+BGD,Bangladesh,South Asia,24.0,9.0,2.531,5.075,7.6096,7.525,5.17,10.544,12.41,0.3326,2.355,True,True,True,0.125,7.7346,0.125,False,3.0,5.0,Above 5% cap
+THA,Thailand,East Asia & Pacific,27.0,11.0,5.9837,1.4885,7.4744,6.03,0.75,19.5,25.0,0.8006,5.28,True,True,True,0.1111,7.5856,0.1111,False,3.0,5.0,Above 5% cap
+ARM,Armenia,Europe & Central Asia,16.0,5.0,4.3381,2.805,7.1462,6.95,4.5,9.99,12.02,0.607,2.45,True,True,True,0.0625,7.2088,0.0625,False,3.0,5.0,Above 5% cap
+CHN,China,East Asia & Pacific,22.0,8.0,6.0939,0.5236,6.62,3.56,1.85,16.595,22.5,0.9205,1.71,True,True,True,0.0909,6.7109,0.0909,False,3.0,5.0,Above 5% cap
+JAM,Jamaica,Latin America & Caribbean,20.0,8.0,3.05,3.012,6.064,6.36,-2.25,9.584,12.68,0.503,8.61,True,True,True,0.25,6.314,0.25,False,3.0,5.0,Above 5% cap
+CRI,Costa Rica,Latin America & Caribbean,25.0,9.0,4.1694,1.7976,5.97,5.65,2.83,8.968,10.99,0.6984,2.82,True,True,True,0.12,6.09,0.12,False,3.0,5.0,Above 5% cap
+IDN,Indonesia,East Asia & Pacific,24.0,9.0,3.5485,2.1583,5.71,5.47,-0.53,8.192,17.5,0.6215,6.0,True,True,True,0.125,5.835,0.125,False,3.0,5.0,Above 5% cap
+BRA,Brazil,Latin America & Caribbean,32.0,12.0,2.6428,2.9784,5.6253,4.89,1.18,9.766,12.84,0.4698,3.71,True,True,True,0.0625,5.6878,0.0625,False,3.0,5.0,Above 5% cap
+ZAF,South Africa,Sub-Saharan Africa,19.0,7.0,3.6203,1.7995,5.4232,4.95,1.72,8.344,10.89,0.6676,3.23,True,True,True,0.1579,5.5811,0.1579,False,3.0,5.0,Above 5% cap
+LBR,Liberia,Sub-Saharan Africa,20.0,6.0,5.3465,0.0115,5.361,6.0,0.49,7.5,8.5,0.9973,5.51,True,True,True,0.15,5.511,0.15,False,3.0,5.0,Above 5% cap
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",16.0,5.0,3.6722,1.6806,5.355,5.26,2.77,7.31,10.76,0.6857,2.49,True,True,True,0.0625,5.4175,0.0625,False,3.0,5.0,Above 5% cap
+VNM,Vietnam,East Asia & Pacific,35.0,9.0,4.0837,1.1831,5.2683,5.81,0.0,7.2,17.5,0.7752,5.81,True,True,True,0.0857,5.354,0.0857,False,3.0,5.0,Above 5% cap
+JOR,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",20.0,5.0,3.769,1.483,5.2555,5.45,2.0,7.57,8.02,0.7172,3.45,True,True,True,0.15,5.4055,0.15,False,3.0,5.0,Above 5% cap
+DOM,Dominican Republic,Latin America & Caribbean,27.0,12.0,4.2691,0.8385,5.1085,4.1,0.22,9.418,22.5,0.8357,3.88,True,True,True,0.4444,5.553,0.4444,False,3.0,5.0,Above 5% cap
+COL,Colombia,Latin America & Caribbean,39.0,15.0,3.3668,1.5867,4.9562,4.27,-2.65,8.354,17.5,0.6793,6.92,False,True,True,0.1538,5.11,0.1538,True,3.0,5.0,Above 3% goal
+HTI,Haiti,Latin America & Caribbean,16.0,7.0,4.6222,0.0775,4.7025,5.0,1.0,6.45,7.18,0.9829,4.0,False,True,True,0.375,5.0775,0.375,True,3.0,5.0,Above 3% goal
+PER,Peru,Latin America & Caribbean,21.0,10.0,4.3581,0.2867,4.6467,4.0,2.0,7.01,12.5,0.9379,2.0,False,True,True,0.2857,4.9324,0.2857,False,3.0,5.0,Above 3% goal
+MEX,Mexico,Latin America & Caribbean,46.0,15.0,3.2561,1.2783,4.537,4.485,-2.44,6.96,17.5,0.7177,6.925,False,True,True,0.2174,4.7543,0.2174,False,3.0,5.0,Above 3% goal
+PHL,Philippines,East Asia & Pacific,58.0,14.0,3.1134,1.3997,4.5153,3.96,0.58,7.42,17.5,0.6895,3.38,False,True,True,0.1379,4.6533,0.1379,False,3.0,5.0,Above 3% goal
+UKR,Ukraine,Europe & Central Asia,20.0,7.0,2.5752,1.877,4.454,3.525,1.1,8.338,11.52,0.5782,2.425,False,True,True,0.15,4.604,0.15,False,3.0,5.0,Above 3% goal
+NPL,Nepal,South Asia,22.0,9.0,2.9016,1.5068,4.4086,4.635,0.86,7.706,9.86,0.6582,3.775,False,True,True,0.1364,4.545,0.1364,False,3.0,5.0,Above 3% goal
+GHA,Ghana,Sub-Saharan Africa,31.0,8.0,2.5695,1.7965,4.3677,4.35,-0.13,7.27,11.87,0.5883,4.48,False,True,True,0.1935,4.5613,0.1935,False,3.0,5.0,Above 3% goal
+KEN,Kenya,Sub-Saharan Africa,40.0,10.0,2.3186,1.9418,4.2622,4.48,-0.29,7.61,11.26,0.544,4.77,False,True,True,0.125,4.3872,0.125,False,3.0,5.0,Above 3% goal
+GTM,Guatemala,Latin America & Caribbean,30.0,11.0,3.2638,0.9187,4.185,3.975,-2.12,6.845,11.1,0.7799,6.095,False,True,True,0.2333,4.4183,0.2333,False,3.0,5.0,Above 3% goal
+NIC,Nicaragua,Latin America & Caribbean,21.0,8.0,4.131,0.0,4.1343,3.97,1.95,6.25,7.0,0.9992,2.02,False,True,True,0.2857,4.42,0.2857,False,3.0,5.0,Above 3% goal
+PAN,Panama,Latin America & Caribbean,14.0,4.0,4.1007,0.0,4.1036,3.0,2.45,6.7,7.5,0.9993,0.55,False,True,True,0.2143,4.3179,0.2143,False,3.0,5.0,Above 3% goal
+HND,Honduras,Latin America & Caribbean,32.0,11.0,3.1797,0.8034,3.9862,3.83,1.5,6.008,7.65,0.7977,2.33,False,True,True,0.2812,4.2675,0.2812,False,3.0,5.0,Above 3% goal
+ECU,Ecuador,Latin America & Caribbean,31.0,12.0,3.9185,0.0,3.9216,3.25,0.0,6.02,7.0,0.9992,3.25,False,True,True,0.2581,4.1797,0.2581,False,3.0,5.0,Above 3% goal
+YEM,"Yemen, Rep.","Middle East, North Africa, Afghanistan & Pakistan",12.0,4.0,3.9133,0.0,3.9167,3.0,2.0,6.0,7.5,0.9991,1.0,False,True,True,0.1667,4.0833,0.1667,False,3.0,5.0,Above 3% goal
+PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",25.0,7.0,2.1594,1.6464,3.8084,2.63,0.45,7.266,13.67,0.567,2.18,False,True,True,0.08,3.8884,0.08,False,3.0,5.0,Above 3% goal
+IND,India,South Asia,46.0,13.0,2.8216,0.853,3.6767,2.75,-0.53,6.555,17.5,0.7674,3.28,False,True,True,0.087,3.7637,0.087,False,3.0,5.0,Above 3% goal
+SLV,El Salvador,Latin America & Caribbean,46.0,14.0,3.4952,0.0,3.4978,3.04,1.0,5.5,7.13,0.9993,2.04,False,True,True,0.2609,3.7587,0.2609,False,3.0,5.0,Above 3% goal
+ETH,Ethiopia,Sub-Saharan Africa,19.0,8.0,3.3776,-0.2405,3.1395,3.0,-9.85,7.066,8.29,1.0759,12.85,False,True,True,0.3684,3.5079,0.3684,False,3.0,5.0,Above 3% goal
+NGA,Nigeria,Sub-Saharan Africa,33.0,6.0,2.235,0.4806,2.717,2.47,-0.49,5.452,9.87,0.8226,2.96,False,False,True,0.1818,2.8988,0.1818,False,3.0,5.0,Meets goal

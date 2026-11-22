@@ -1,0 +1,6 @@
+scenario,avg_cost_pct,share_quotes_above_5pct,share_quotes_above_3pct,cost_per_200_usd,gap_to_3pct_goal_pp,goal_pct
+Baseline (Q3 2025 data),5.0469,0.4129,0.703,10.0939,2.0469,3.0
+With 1% cash tax,5.2301,0.4376,0.7267,10.4602,2.2301,3.0
+No FX margin (fee only),3.6962,0.2158,0.4208,7.3923,0.6962,3.0
+Every quote capped at 5%,3.8206,0.0,0.703,7.6412,0.8206,3.0
+Quotes above corridor median repriced to median,3.742,0.195,0.6366,7.4841,0.742,3.0

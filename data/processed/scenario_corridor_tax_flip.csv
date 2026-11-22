@@ -1,0 +1,38 @@
+destination_code,destination_name,quotes,cash_share,before,after,increase_pp,above_cap_before,above_cap_after,newly_above_cap
+DOM,Dominican Republic,27,0.4444,5.1085,5.553,0.4444,True,True,False
+HTI,Haiti,16,0.375,4.7025,5.0775,0.375,False,True,True
+ETH,Ethiopia,19,0.3684,3.1395,3.5079,0.3684,False,False,False
+NIC,Nicaragua,21,0.2857,4.1343,4.42,0.2857,False,False,False
+PER,Peru,21,0.2857,4.6467,4.9324,0.2857,False,False,False
+HND,Honduras,32,0.2812,3.9862,4.2675,0.2812,False,False,False
+SLV,El Salvador,46,0.2609,3.4978,3.7587,0.2609,False,False,False
+ECU,Ecuador,31,0.2581,3.9216,4.1797,0.2581,False,False,False
+JAM,Jamaica,20,0.25,6.064,6.314,0.25,True,True,False
+GTM,Guatemala,30,0.2333,4.185,4.4183,0.2333,False,False,False
+MEX,Mexico,46,0.2174,4.537,4.7543,0.2174,False,False,False
+PAN,Panama,14,0.2143,4.1036,4.3179,0.2143,False,False,False
+CPV,Cabo Verde,14,0.2143,8.805,9.0193,0.2143,True,True,False
+GHA,Ghana,31,0.1935,4.3677,4.5613,0.1935,False,False,False
+GUY,Guyana,21,0.1905,8.1014,8.2919,0.1905,True,True,False
+NGA,Nigeria,33,0.1818,2.717,2.8988,0.1818,False,False,False
+YEM,"Yemen, Rep.",12,0.1667,3.9167,4.0833,0.1667,False,False,False
+ZAF,South Africa,19,0.1579,5.4232,5.5811,0.1579,True,True,False
+COL,Colombia,39,0.1538,4.9562,5.11,0.1538,False,True,True
+UKR,Ukraine,20,0.15,4.454,4.604,0.15,False,False,False
+LBR,Liberia,20,0.15,5.361,5.511,0.15,True,True,False
+JOR,Jordan,20,0.15,5.2555,5.4055,0.15,True,True,False
+PHL,Philippines,58,0.1379,4.5153,4.6533,0.1379,False,False,False
+NPL,Nepal,22,0.1364,4.4086,4.545,0.1364,False,False,False
+BGD,Bangladesh,24,0.125,7.6096,7.7346,0.125,True,True,False
+KEN,Kenya,40,0.125,4.2622,4.3872,0.125,False,False,False
+LBN,Lebanon,16,0.125,11.2812,11.4062,0.125,True,True,False
+IDN,Indonesia,24,0.125,5.71,5.835,0.125,True,True,False
+CRI,Costa Rica,25,0.12,5.97,6.09,0.12,True,True,False
+THA,Thailand,27,0.1111,7.4744,7.5856,0.1111,True,True,False
+CHN,China,22,0.0909,6.62,6.7109,0.0909,True,True,False
+IND,India,46,0.087,3.6767,3.7637,0.087,False,False,False
+VNM,Vietnam,35,0.0857,5.2683,5.354,0.0857,True,True,False
+PAK,Pakistan,25,0.08,3.8084,3.8884,0.08,False,False,False
+EGY,"Egypt, Arab Rep.",16,0.0625,5.355,5.4175,0.0625,True,True,False
+BRA,Brazil,32,0.0625,5.6253,5.6878,0.0625,True,True,False
+ARM,Armenia,16,0.0625,7.1462,7.2088,0.0625,True,True,False

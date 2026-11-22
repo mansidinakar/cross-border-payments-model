@@ -1,0 +1,7 @@
+data/raw/
+.venv/
+__pycache__/
+.pytest_cache/
+.qodo/
+data/processed/rpw_clean.csv.gz
+.DS_Store
